@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows;
 
-namespace boFile.Properties
+namespace boSolution.Application.boFile.Properties
 {
 
 	internal sealed partial class Settings : ApplicationSettingsBase

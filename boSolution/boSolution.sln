@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boFile", "boFile\boFile.csproj", "{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boSolution.Application.boFile", "boFile\boSolution.Application.boFile.csproj", "{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{52C4007B-EBA4-4B91-B25E-62E4FBC4453C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{8B09ECE2-0208-4075-ABFB-EC23A660ED5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boCalc", "boCalc\boCalc.csproj", "{AD982862-EF03-4B55-9DF2-3FDEFA6E33FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boSolution.Application.boCalc", "boCalc\boSolution.Application.boCalc.csproj", "{AD982862-EF03-4B55-9DF2-3FDEFA6E33FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

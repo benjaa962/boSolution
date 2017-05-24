@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows;
 
-namespace boCalc.Properties
+namespace boSolution.Application.boCalc.Properties
 {
 
 	internal sealed partial class Settings : ApplicationSettingsBase

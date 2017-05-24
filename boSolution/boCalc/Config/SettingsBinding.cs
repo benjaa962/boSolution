@@ -1,7 +1,7 @@
-﻿using boCalc.Properties;
+﻿using boSolution.Application.boCalc.Properties;
 using System.Windows.Data;
 
-namespace boCalc
+namespace boSolution.Application.boCalc
 {
 
 	public class SettingsBinding : Binding

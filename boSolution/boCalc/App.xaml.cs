@@ -1,9 +1,7 @@
-﻿using System.Windows;
-
-namespace boCalc
+﻿namespace boSolution.Application.boCalc
 {
 
-	public partial class App : Application
+	public partial class App : System.Windows.Application
 	{
 	}
 

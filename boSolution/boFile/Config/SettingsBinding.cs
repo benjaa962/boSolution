@@ -1,7 +1,7 @@
-﻿using boFile.Properties;
+﻿using boSolution.Application.boFile.Properties;
 using System.Windows.Data;
 
-namespace boFile
+namespace boSolution.Application.boFile
 {
 
 	public class SettingsBinding : Binding

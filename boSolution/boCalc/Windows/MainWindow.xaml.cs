@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows;
 
-namespace boCalc
+namespace boSolution.Application.boCalc
 {
 
 	public partial class MainWindow : Window

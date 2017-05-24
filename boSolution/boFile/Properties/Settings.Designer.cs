@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace boFile.Properties {
+namespace boSolution.Application.boFile.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

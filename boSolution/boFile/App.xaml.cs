@@ -1,9 +1,7 @@
-﻿using System.Windows;
-
-namespace boFile
+﻿namespace boSolution.Application.boFile
 {
 
-	public partial class App : Application
+	public partial class App : System.Windows.Application
 	{
 	}
 
