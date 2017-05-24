@@ -8,7 +8,9 @@ namespace boSolution.Core.Article
 
 		Uri Uri { get; }
 
-		string GetName(ArticleNameType type);
+		string      GetName (ArticleNameType type);
+		DateTime    GetDate (ArticleDateType type);
+		ArticleSize GetSize (ArticleSizeType type);
 
 	}
 

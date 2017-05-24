@@ -40,10 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\ArticleSize.cs" />
     <Compile Include="Enum\ArticleDateType.cs" />
     <Compile Include="Enum\ArticleNameType.cs" />
     <Compile Include="Enum\ArticleSizeType.cs" />
     <Compile Include="Enum\ArticleType.cs" />
+    <Compile Include="Enum\SizeFormat.cs" />
     <Compile Include="Interface\Article\IArticle.cs" />
     <Compile Include="Interface\Article\IParentArticle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
