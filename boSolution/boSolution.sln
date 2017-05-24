@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boSolution.Core.ViewModel",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boSolution.Core.Module", "boSolution.Core.Module\boSolution.Core.Module.csproj", "{190EBFD7-FEAE-4938-B754-EAD206560380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boSolution.Core.Article", "boSolution.Core.Article\boSolution.Core.Article.csproj", "{5D55F19D-8675-47DC-A4AD-D258986DC0AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{190EBFD7-FEAE-4938-B754-EAD206560380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{190EBFD7-FEAE-4938-B754-EAD206560380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{190EBFD7-FEAE-4938-B754-EAD206560380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D55F19D-8675-47DC-A4AD-D258986DC0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D55F19D-8675-47DC-A4AD-D258986DC0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D55F19D-8675-47DC-A4AD-D258986DC0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D55F19D-8675-47DC-A4AD-D258986DC0AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,5 +52,6 @@ Global
 		{AD982862-EF03-4B55-9DF2-3FDEFA6E33FD} = {52C4007B-EBA4-4B91-B25E-62E4FBC4453C}
 		{03470371-71E2-4BC1-A80F-E4C921AF2F80} = {8B09ECE2-0208-4075-ABFB-EC23A660ED5A}
 		{190EBFD7-FEAE-4938-B754-EAD206560380} = {8B09ECE2-0208-4075-ABFB-EC23A660ED5A}
+		{5D55F19D-8675-47DC-A4AD-D258986DC0AE} = {8B09ECE2-0208-4075-ABFB-EC23A660ED5A}
 	EndGlobalSection
 EndGlobal
