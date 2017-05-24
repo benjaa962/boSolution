@@ -96,6 +96,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\boSolution.Core.Module\boSolution.Core.Module.csproj">
+      <Project>{190ebfd7-feae-4938-b754-ead206560380}</Project>
+      <Name>boSolution.Core.Module</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

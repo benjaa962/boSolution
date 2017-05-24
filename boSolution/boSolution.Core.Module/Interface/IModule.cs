@@ -1,11 +1,13 @@
 ﻿namespace boSolution.Core.Module
 {
 
-	public class IModule
+	public interface IModule
 	{
 
-		string          Key      { get; }
-		IModuleMetaData MetaData { get; }
+		string      Key  { get; }
+		IModuleInfo Info { get; }
+
+		ModuleState GetState ();
 
 	}
 

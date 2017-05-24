@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,12 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\AuthorMetaData.cs" />
-    <Compile Include="Class\ModuleMetaData.cs" />
-    <Compile Include="Interface\IAuthorMetaData.cs" />
+    <Compile Include="Class\AuthorInfo.cs" />
+    <Compile Include="Class\ModuleInfo.cs" />
+    <Compile Include="Enum\ModuleState.cs" />
+    <Compile Include="Interface\IAuthorInfo.cs" />
     <Compile Include="Interface\IModule.cs" />
-    <Compile Include="Interface\IModuleMetaData.cs" />
+    <Compile Include="Interface\IModuleInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provider\ModuleAttribute.cs" />
+    <Compile Include="Provider\ModuleProvider.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

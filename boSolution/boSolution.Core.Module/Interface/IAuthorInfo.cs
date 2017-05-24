@@ -1,11 +1,10 @@
 ﻿namespace boSolution.Core.Module
 {
 
-	public interface IAuthorMetaData
+	public interface IAuthorInfo
 	{
 
 		string Name         { get; }
-
 		string FirstName    { get; }
 		string LastName     { get; }
 
