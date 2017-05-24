@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boFile", "boFile\boFile.csproj", "{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{52C4007B-EBA4-4B91-B25E-62E4FBC4453C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{769EC5A6-92E0-4D7D-B9CA-279DCA8A38BC} = {52C4007B-EBA4-4B91-B25E-62E4FBC4453C}
+	EndGlobalSection
+EndGlobal
